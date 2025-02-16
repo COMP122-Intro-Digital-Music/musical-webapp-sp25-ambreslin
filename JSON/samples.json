@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "spanishromance",
+    "file": "samples/spanishromance.mp3",
+    "bpm": "120",
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": 0.01
+  },
+  {
+    "name": "boywhocouldfly",
+    "file": "samples/boywhocouldfly.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "twinpeaks",
+    "file": "samples/twinpeakss2e11.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
