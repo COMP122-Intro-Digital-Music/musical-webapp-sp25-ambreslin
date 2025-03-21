@@ -1,0 +1,31 @@
+[
+  {
+    "name": "preset 1",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": -500,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "exponential",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "bounce",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 2,
+        "partials": [
+          1.2732395447351628,
+          0
+        ],
+        "phase": 66,
+        "type": "fatsquare2",
+        "count": 5,
+        "spread": 15
+      }
+    }
+  }
+]
