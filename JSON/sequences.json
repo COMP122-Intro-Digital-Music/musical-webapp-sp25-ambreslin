@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "name": "seq1",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Db3",
+        "dur": "4n",
+        "vel": "0.6"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "0.6"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "D3",
+        "dur": "4n",
+        "vel": "0.8"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "0.8"
+      }
+    ]
+  },
+  {
+    "name": "seq2",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Bb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "Ab4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
